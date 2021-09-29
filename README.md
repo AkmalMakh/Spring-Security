@@ -1,0 +1,2 @@
+# Spring-Security
+Spring Security project it allows to authenticate based on role of user and limit access to certain RESTful end points  -> Get All User only if you registered as Admin  -> Delete User By id, only if you registered as Super_Admin  -> Create user, Get user by id, email-verify etc as User  Build project and http://localhost:8081/mobile-app/swagger-ui.html#/ Technologies used Spring Boot, Gradle, Spring Security, Swagger for API docs
